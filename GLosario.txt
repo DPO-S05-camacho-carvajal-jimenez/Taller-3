@@ -1,0 +1,45 @@
+Términos: 
+
+    Viaje: Cada servicio prestado 
+
+    Conductor: prestador de servicio por parte de UB*R 
+
+    Pasajero: Tomador de servicio. 
+
+    Costo: Montón monetario total. 
+
+    Endeudamiento: Dinero que el conductor le debe a la empresa. 
+
+    Origen: Punto de partida del viaje. 
+
+    Destino: Punto de partida del viaje. 
+
+    Distancia Efectiva: Cantidad de kilómetros que se va a recorrer en el viaje. 
+
+    Tarifa: Costo por kilómetro. 
+
+    Ciudad: Ciudad en la que realiza el viaje. 
+
+    Ubicación: lugar en tiempo real donde se encuentra el conductor. 
+
+    Condición Tráfico: Situación actual de la movilidad de la ciudad. 
+
+    Demanda: Cantidad de usuarios en busque da de viaje. 
+
+    Medio de Pago: Manera de pagar el viaje por parte del usuario. 
+
+    Efectivo: Medio de pago por medio de billetes. 
+
+    Tarjeta de Crédito: Medio de pago por medio tarjeta. 
+
+    Automóvil: Medio de transporte por el cual se realiza el viaje. 
+
+    Bonificación económica: pago extra para el conductor. 
+
+    Calificación: puntuación para el conductor o el pasajero. 
+
+    Categoría A: gama más alta de automóvil. 
+
+    Categoría B: gama media de automóvil. 
+
+    Categoría C: gama baja de automóvil. 
